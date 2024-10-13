@@ -1,0 +1,40 @@
+
+.titulo {
+    background-color: #f0f0b0;
+    text-align: center;  
+
+}
+
+
+
+.navegacion {
+ 
+    text-align: center;
+    background-color: #15bb15;
+   
+}
+
+a.ss {
+    color: black;
+    text-decoration: none;
+}
+
+
+.quienes {
+   
+    background-color: #ff9e00;
+      
+}
+
+.fotos {
+padding-top: 12px;
+background-color: white;
+
+}
+footer {
+    background-color: #0000ff;
+    text-align: center;
+}
+span.resaltar {
+    background-color:  goldenrod;
+}
